@@ -1,0 +1,10 @@
+fruit
+banana
+<<<<<<< HEAD
+hey
+||||||| abacee6
+
+=======
+lemmon
+satabdi
+>>>>>>> f1
