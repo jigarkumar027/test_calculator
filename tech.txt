@@ -1,4 +1,3 @@
 fruit
 banana
-graphs
-apple
+
