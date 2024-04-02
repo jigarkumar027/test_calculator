@@ -1,4 +1,3 @@
 fruit
 banana
 hey
-name
